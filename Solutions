@@ -1,4 +1,5 @@
-#include <stdio.h> // Cut the sticks //algorithm
+#include <stdio.h>  // added a new header file for no reason at all, plox merge 
+#include <stdlib.h> // Cut the sticks //algorithm
 int main()
 {
 	int n,a[500000],i,j,x,temp,min,k,c=0,y;
@@ -54,3 +55,7 @@ int main()
 				continue;
 		}
 	}
+	// adding more commentsfor no reason again
+	// please bear with me
+	// okay, let me tell you a knock knock joke
+	//knock knock
